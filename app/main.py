@@ -10,4 +10,4 @@ def main(argv):
   if len(argv) != 0 :
     print("Hello {0}!".format(argv[0]))
   else :
-    print("Hello!")
+    print("Hello !")
