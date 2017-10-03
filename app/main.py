@@ -8,6 +8,6 @@ def main(argv):
   # This is a sample code to use arguments and outputs.
   # Edit and remove this code as you like.
   if argv[0] == ' ' :
-    print("Hello !")
+    print("Hello!")
   else:
     print("Hello {0}!".format(argv[0]))
